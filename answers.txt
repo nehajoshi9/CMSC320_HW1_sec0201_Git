@@ -5,3 +5,11 @@ Answer: To track code changes or to collaborate with other people more easily on
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance: stock predictions, detecting fraud
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two versions into one, rebasing favors one version over the other and overwrites changes from the other file.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning machine learning concepts in CMSC320.
