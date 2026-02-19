@@ -8,7 +8,8 @@ Answer: Finance: stock predictions, detecting fraud
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Merging combines two versions into one, rebasing favors one version over the other and overwrites changes from the other file.
+Answer: Merging combines two versions into one and preserves history, rebasing linearly rewrites version history by placing changes from one 
+version directly onto another version.
 
 Q4: What are you looking forward to this semester?
 
